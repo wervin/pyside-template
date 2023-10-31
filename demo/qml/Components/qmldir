@@ -1,0 +1,7 @@
+module Components
+
+Cube 1.0 Cube.qml
+Logger 1.0 Logger.qml
+MainWindow 1.0 MainWindow.qml
+StatusBar 1.0 StatusBar.qml
+TextView 1.0 TextView.qml

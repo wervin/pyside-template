@@ -1,0 +1,4 @@
+pyside6==6.6.0
+pyinstaller==6.1.0
+debugpy==1.8.0
+autopep8==2.0.4

@@ -1,0 +1,13 @@
+.env/
+
+build/
+dist/
+output/
+
+__pycache__/
+*.__pycache__
+
+info.json
+demo.spec
+
+__resources__.py

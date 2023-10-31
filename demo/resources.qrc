@@ -1,0 +1,51 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/">
+        <file>assets/fonts/ConsolaMono-Bold.ttf</file>
+        <file>assets/fonts/Hack-Regular.ttf</file>
+        <file>assets/fonts/Jupiteroid-Light.ttf</file>
+        <file>assets/fonts/Roboto-BoldCondensed.ttf</file>
+        <file>assets/fonts/Roboto-Italic.ttf</file>
+        <file>assets/fonts/Roboto-Regular.ttf</file>
+        <file>assets/fonts/ConsolaMono-Book.ttf</file>
+        <file>assets/fonts/Jupiteroid-BoldItalic.ttf</file>
+        <file>assets/fonts/Jupiteroid-Regular.ttf</file>
+        <file>assets/fonts/Roboto-BoldItalic.ttf</file>
+        <file>assets/fonts/Roboto-LightItalic.ttf</file>
+        <file>assets/fonts/Roboto-ThinItalic.ttf</file>
+        <file>assets/fonts/Hack-BoldItalic.ttf</file>
+        <file>assets/fonts/Jupiteroid-Bold.ttf</file>
+        <file>assets/fonts/Roboto-BlackItalic.ttf</file>
+        <file>assets/fonts/Roboto-Bold.ttf</file>
+        <file>assets/fonts/Roboto-Light.ttf</file>
+        <file>assets/fonts/Roboto-Thin.ttf</file>
+        <file>assets/fonts/Hack-Bold.ttf</file>
+        <file>assets/fonts/Jupiteroid-Italic.ttf</file>
+        <file>assets/fonts/Roboto-Black.ttf</file>
+        <file>assets/fonts/Roboto-CondensedItalic.ttf</file>
+        <file>assets/fonts/Roboto-MediumItalic.ttf</file>
+        <file>assets/fonts/Hack-Italic.ttf</file>
+        <file>assets/fonts/Jupiteroid-LightItalic.ttf</file>
+        <file>assets/fonts/Roboto-BoldCondensedItalic.ttf</file>
+        <file>assets/fonts/Roboto-Condensed.ttf</file>
+        <file>assets/fonts/Roboto-Medium.ttf</file>
+
+        <file>assets/icons/info.svg</file>
+        <file>assets/icons/demo.svg</file>
+
+        <file>qml/Components/qmldir</file>
+        <file>qml/Components/Cube.qml</file>
+        <file>qml/Components/Logger.qml</file>
+        <file>qml/Components/MainWindow.qml</file>
+        <file>qml/Components/StatusBar.qml</file>
+        <file>qml/Components/TextView.qml</file>
+
+        <file>qml/Theme/qmldir</file>
+        <file>qml/Theme/Theme.qml</file>
+
+        <file>styles/ZenZest/qmldir</file>
+        <file>styles/ZenZest/Button.qml</file>
+
+        <file>main.qml</file>
+        <file>info.json</file>
+    </qresource>
+</RCC>

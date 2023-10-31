@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.90625mm"
+   height="11.90625mm"
+   viewBox="0 0 11.90625 11.90625"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="demo.svg"
+   inkscape:export-filename="demo.png"
+   inkscape:export-xdpi="546.13336"
+   inkscape:export-ydpi="546.13336"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="9.2821467"
+     inkscape:cx="15.513653"
+     inkscape:cy="20.68487"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       originx="-35.71875"
+       originy="-80.697914" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="140"
+       y="315"
+       width="37.000004"
+       height="20.000004"
+       id="rect221" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.71875,-80.697914)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.72860319,0,0,0.67732999,-66.542693,-131.40665)"
+       id="text219"
+       style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Steelfish;-inkscape-font-specification:'Steelfish Ultra-Bold Italic';white-space:pre;shape-inside:url(#rect221);display:inline;fill:#f0f0f0" />
+    <rect
+       style="fill:#ff5733;stroke-width:0.300009"
+       id="rect113"
+       width="11.90625"
+       height="11.90625"
+       x="35.71875"
+       y="80.697914"
+       ry="3.1750026" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8299px;font-family:Steelfish;-inkscape-font-specification:Steelfish;fill:#f0f0f0;stroke-width:0.115368"
+       x="39.646683"
+       y="91.345802"
+       id="text437"><tspan
+         id="tspan435"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8299px;font-family:Steelfish;-inkscape-font-specification:Steelfish;stroke-width:0.115368"
+         x="39.646683"
+         y="91.345802"
+         sodipodi:role="line">D</tspan></text>
+  </g>
+</svg>

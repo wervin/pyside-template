@@ -1,0 +1,47 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Configure Virtual Environment",
+            "type": "shell",
+            "command": "${workspaceFolder}/scripts/config_virtualenv.sh",
+            "presentation": {
+                "panel": "dedicated"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Run Demo App",
+            "type": "shell",
+            "command": "${workspaceFolder}/scripts/run_app.sh",
+            "presentation": {
+                "panel": "dedicated"
+            }
+        },
+        {
+            "label": "Build Demo App",
+            "type": "shell",
+            "command": "${workspaceFolder}/scripts/build_app.sh",
+            "presentation": {
+                "panel": "dedicated"
+            }
+        },
+        {
+            "label": "Configure Demo App",
+            "type": "shell",
+            "command": "${workspaceFolder}/scripts/config_app.sh",
+            "presentation": {
+                "panel": "dedicated"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Generate Resources",
+            "type": "shell",
+            "command": "${workspaceFolder}/scripts/generate_resources.sh",
+            "presentation": {
+                "panel": "dedicated"
+            }
+        }
+    ]
+}

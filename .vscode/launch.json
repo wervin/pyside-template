@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "configurations": [
+        {
+            "name": "Debug Demo App",
+            "type": "python",
+            "request": "launch",
+            "preLaunchTask": "Generate Resources",
+            "python": "${workspaceFolder}/.env/bin/python",
+            "program": "${workspaceFolder}/demo/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "subProcess": true,
+            "cwd": "${workspaceFolder}/demo"
+        }
+    ]
+}
